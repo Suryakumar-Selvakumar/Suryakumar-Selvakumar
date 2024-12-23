@@ -7,6 +7,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suryakumar-Selvakumar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />&ensp;
   <img src="https://streak-stats.demolab.com?user=Suryakumar-Selvakumar&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Suryakumar-Selvakumar/Suryakumar-Selvakumar/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
@@ -19,7 +20,7 @@
 
 - 👨‍💻 Front-end Developer passionate about creating meticulous Web-Apps
 - 👨‍🎓 Masters in Computer Science student at the University of Colorado Denver
-- ⚡ Life is the funnest videogame there is, and I love leveling up
+- ⚡ Life is the funnest game there is, and I love leveling up
 - 🌱 Currently in the process of mastering React
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://visitor-badge.laobi.icu/badge?page_id=Suryakumar-Selvakumar.Suryakumar-Selvakumar&left_text=Profile%20Views"  />
@@ -47,6 +48,6 @@
 
 <div align="center">
 
-*One cannot wish for both strong character and an easy life. The price of each is the other.*
+_One cannot wish for both strong character and an easy life. The price of each is the other._
 
 </div>
