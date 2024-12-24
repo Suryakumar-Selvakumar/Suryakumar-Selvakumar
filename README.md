@@ -27,7 +27,7 @@
 - 👨‍💻 Front-end Developer passionate about creating meticulous Web-Apps
 - 👨‍🎓 Masters in Computer Science student at the University of Colorado Denver
 - ⚡ Life is the funnest game there is, and I love leveling up
-- 💡 I love to overthink and solve complex problems, even non-existent ones 😅
+- 💡 I love to overthink and solve complex problems, sometimes non-existent ones 😅
 - 🌱 Currently in the process of mastering React
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://visitor-badge.laobi.icu/badge?page_id=Suryakumar-Selvakumar.Suryakumar-Selvakumar&left_text=Profile%20Views"  />
