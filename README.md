@@ -55,6 +55,6 @@
 
 <div align="center">
 
-_One cannot wish for both strong character and an easy life. The price of each is the other._
+_He who has a why can bear almost any how_
 
 </div>
