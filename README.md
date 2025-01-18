@@ -38,11 +38,11 @@
 
 ### Languages and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,styledcomponents,python,mysql)](https://skillicons.dev)
 
 ### Tools and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=git,jest,npm,linux,webpack,vite,vscode,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,jest,npm,linux,vitest,webpack,vite,vscode,vercel)](https://skillicons.dev)
 
 ## 📫 Contact
 
