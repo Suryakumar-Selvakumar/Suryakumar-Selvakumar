@@ -55,6 +55,6 @@
 
 <div align="center">
 
-_He who has a why can bear almost any how_
+_He who has a why to live for can bear almost any how_
 
 </div>
