@@ -28,7 +28,7 @@
 - 👨‍🎓 Masters in Computer Science student at the University of Colorado Denver
 - ⚡ I'm curious about everything and I love to learn
 - 💡 I love to overthink and solve complex problems, sometimes non-existent ones 😅
-- 🌱 Currently in the process of mastering Node
+- 🌱 Currently in the process of mastering Node.js
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://visitor-badge.laobi.icu/badge?page_id=Suryakumar-Selvakumar.Suryakumar-Selvakumar&left_text=Profile%20Views"  />
 
