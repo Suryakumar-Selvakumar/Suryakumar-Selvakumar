@@ -50,11 +50,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryakumar-selvakumar/)
 [![Gmail](https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryakumar.2.selvakumar@gmail.com)
-
----
-
-<div align="center">
-
-_He who has a why to live for can bear almost any how_
-
-</div>
