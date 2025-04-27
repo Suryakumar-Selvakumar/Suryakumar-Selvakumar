@@ -12,7 +12,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suryakumar-Selvakumar/Suryakumar-Selvakumar/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Suryakumar-Selvakumar/Suryakumar-Selvakumar/output/github-snake.svg" />
 </picture>
-
 </div>
 
 ###
@@ -28,8 +27,6 @@
 - ⚡ I'm curious about everything and I love to learn
 - 💡 I love to overthink and solve complex problems
 - 🌱 Currently in the process of mastering Node.js
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://visitor-badge.laobi.icu/badge?page_id=Suryakumar-Selvakumar.Suryakumar-Selvakumar&left_text=Profile%20Views"  />
 
 </div>
 
