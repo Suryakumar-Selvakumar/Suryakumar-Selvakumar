@@ -26,7 +26,7 @@
 - 👨‍🎓 Masters in Computer Science student at the University of Colorado Denver
 - ⚡ I'm curious about everything and I love to learn
 - 💡 I love to overthink and solve complex problems
-- 🌱 Currently in the process of mastering Node.js
+- 🌱 Currently in the process of mastering Backend skills
 
 </div>
 
