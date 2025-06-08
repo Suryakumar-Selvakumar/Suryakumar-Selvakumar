@@ -34,7 +34,7 @@
 
 ### Languages and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,react,html,css,styledcomponents,postgres,bootstrap,python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,react,html,css,tailwind,styledcomponents,postgres,bootstrap,python,mysql)](https://skillicons.dev)
 
 ### Tools and Technologies
 
