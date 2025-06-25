@@ -34,11 +34,11 @@
 
 ### Languages and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,react,html,css,tailwind,styledcomponents,postgres,bootstrap,python,mysql)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,js,python,nodejs,express,react,html,css,tailwind,styledcomponents,bootstrap,shadcn,postgres,mysql&theme=dark)
 
 ### Tools and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=git,jest,npm,linux,vitest,webpack,vite,vscode,vercel)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,npm,linux,jest,vitest,testinglibrary,webpack,vite,vscode,vercel&theme=dark)
 
 ## 📫 Contact
 
