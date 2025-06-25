@@ -38,7 +38,7 @@
 
 ### Tools and Technologies
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,npm,linux,jest,vitest,testinglibrary,webpack,vite,vscode,vercel&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,npm,linux,jest,vitest,testinglibrary,postman,webpack,vite,vscode,vercel&theme=dark)
 
 ## 📫 Contact
 
