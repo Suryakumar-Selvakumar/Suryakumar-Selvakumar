@@ -34,7 +34,7 @@
 
 ### Languages and Frameworks
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,js,python,nodejs,express,react,html,css,tailwind,styledcomponents,bootstrap,shadcn,postgres,mysql&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,js,java,python,nodejs,express,react,html,css,tailwind,styledcomponents,bootstrap,shadcn,postgres,mysql&theme=dark)
 
 ### Tools and Technologies
 
